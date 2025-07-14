@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings (optional, if you use VSCode)
+.vscode/
+
+# Mac OS metadata (optional)
+.DS_Store
